@@ -1,0 +1,18 @@
+.header_div{
+    margin-bottom: 50px;
+    color: 'white';
+}
+.main_div{
+    padding-bottom: 200px;
+    color: 'white';
+}
+#copyright_footer{
+    width: 100%;
+    position: fixed;
+    color: 'white';
+    bottom: 0;
+    line-height: 6;
+}
+body{
+    background-image: linear-gradient(blue,green,yellow,red);
+}
